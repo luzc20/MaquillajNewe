@@ -718,6 +718,8 @@ export default function Catalago() {
     setMostrarDetallesProducto(false);
   };
 
+  
+
   // Renderizado condicional según el estado de la aplicación
 
   // Pantalla de login
